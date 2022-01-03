@@ -12,7 +12,6 @@ int main ()
  scanf("%i",&matriz[i][j]);
  }
  }
- printf("\nUFC - ENGENHARIA - 2020.1 ");
  printf("\nNOME: Lucas Simoes");
  j=m-1;
  for(i=0;i<m;i++)
